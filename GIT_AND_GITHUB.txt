@@ -1,0 +1,28 @@
+							GIT AND GITHUB
+Download git in your computer first.
+create a folder for repo project in your computer
+
+Create repository 	= login GitHub -> click new repo -> enter name simple -> created  
+
+Clone repo with vs code = git clone "(repo url)" (command for clone repo and local vs code)
+			  Then,the file will visible in your local vs code.
+
+
+SYNTAX
+
+git add .\filename.extension = used to set the file to unauthorised to autherised. Eg : git add .\dummy.txt
+
+git commit (message) 	     = used to set the file to ready for the sending process with meassage to identify the edited content. Eg : git 			       commit -m"feat:added my name"
+
+git push		     = used to send the file to repo 
+
+git pull 		     = If user,edited anything in the repo file,the changes appear in the repo file only but changes cannot 				       visible for local vs code file,here it is come that git pull
+
+git status		     = used to check the status of the file that is commited or not.
+
+git branch 		     = used to check the current branch in repo
+
+git checkout -b"custom branch name"  = used to create an branch of the repo
+
+
+
